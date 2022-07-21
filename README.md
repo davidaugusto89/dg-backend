@@ -52,7 +52,11 @@ php artisan serve
 ### Lista de endpoint's
 
 `[POST]` - `http:\\127.0.0.1:8000\cadastros\` => novo cadastro
+
 `[GET]` - `http:\\127.0.0.1:8000\cadastros\` => lista todos os cadastros do sistema
+
 `[GET]` - `http:\\127.0.0.1:8000\cadastros\{id}` => bsuca cadastro específico pelo {id}
+
 `[PUT]` - `http:\\127.0.0.1:8000\cadastros\{id}` => atualizar cadastro específico pelo {id}
+
 `[DELETE]` - `http:\\127.0.0.1:8000\cadastros\{id}` => remover cadastro específico pelo {id}
