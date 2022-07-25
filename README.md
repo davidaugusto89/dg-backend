@@ -20,7 +20,7 @@ Backend no formato RESTfull com `CRUD` para cadastro simples (Nome e Data Nascim
 Para instalar a aplicação deve ser executados os seguintes comandos no terminal.
 
 ```sh
-git clone -b main git@github.com:davidaugusto89/dg-backend.git dg-backend
+git clone -b main https://github.com/davidaugusto89/dg-backend.git
 cd dg-backend
 composer install
 cp .env.example .env
